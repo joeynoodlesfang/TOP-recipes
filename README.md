@@ -1,2 +1,4 @@
 # TOP-recipes
-implementing recipes as per TOP
+Implementing my favourite recipes as per the TOP course.
+### Languages Used:
+- HTML
