@@ -1,0 +1,15 @@
+* {
+    margin: 30px;
+}
+
+li {
+    text-align: center;
+    color: #1b1d74;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(200, 212, 219);
+    padding: 15px;
+    border: 20px solid #1b1d74;
+    margin: 25px;
+    height: 100px;
+    width: 300px;
+}
