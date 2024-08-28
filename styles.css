@@ -9,7 +9,8 @@ li {
     background-color: rgb(200, 212, 219);
     padding: 15px;
     border: 20px solid #1b1d74;
-    margin: 25px;
+    margin: -25px;
     height: 100px;
     width: 300px;
+    box-sizing: border-box;
 }
